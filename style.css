@@ -1,0 +1,21 @@
+#header{
+    /* width: 100%; */
+    height: 100px;
+    background-color: black;
+}
+
+#headertext{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#searchbar{
+    background-color: darkgoldenrod;
+    height: 500px;
+}
+
+#weatherforecast{
+    background-color: crimson;
+    height: 500px;
+}
