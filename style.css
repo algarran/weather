@@ -1,5 +1,5 @@
 #dashboard {
-    background-color: lightseagreen;
+    background-color: black;
     color: white;
     text-align:center;
     max-height:70px;
@@ -22,7 +22,7 @@
   .five{
     border: 1px solid;
     height:12rem;
-    background-color: lightseagreen;
+    background-color: blue;
     color: white;
     margin-bottom:12px;
   }
@@ -37,7 +37,7 @@
     
   }
   .history-btn {
-    background-color: lightseagreen;
+    background-color: blue;
     color: white;
   }
   .searchTitle {
